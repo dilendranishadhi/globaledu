@@ -68,7 +68,7 @@
             </div>
          </nav>
       </section>
-      <br><br>
+      <br>
       <section>
          <div class="containerban">
          <img class="imageban" src="images/ppl.jpg" alt="Your Image">
@@ -623,5 +623,154 @@
             </div>
          </div>
       </section>
+
+      <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12">
+                    <div class="widget">
+                        <div class="widget-title">Contact Info</div>
+                        <div class="contact-details-container">
+                            <div class="contact-item">
+                                <div class="icon-wrapper"><i class="fa fa-phone"></i></div>
+                                <p>Call Us +4420-8609-8200</p>
+                            </div>
+                            <div class="contact-item">
+                                <div class="icon-wrapper"><i class="fab fa-whatsapp"></i></div>
+                                <p>Whatsapp Us +4475-8405-6454</p>
+                            </div>
+                            <div class="contact-item">
+                                <div class="icon-wrapper"><i class="fa fa-envelope"></i></div>
+                                <p>Support@glledulink.co.uk</p>
+                            </div>
+                            <div class="contact-item">
+                                <div class="icon-wrapper"><i class="fa fa-map-marker"></i></div>
+                                <p>CityPoint, 1 Ropemaker Street, London, EC2Y 9HU</p>
+                            </div>
+                        </div>
+                        <ul class="social-links justify-content-lg-between justify-content-center" style="margin-bottom: 10px; margin-top: 10px;">
+                            <li><a href=""><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li><a href=""><i class="fab fa-twitter"></i></a></li>
+                            <li><a href=""><i
+                                        class="fab fa-youtube"></i></a></li>
+                            <li><a href=""><i
+                                        class="fab fa-instagram"></i></a>
+                            </li>
+                            <li><a href=""><i
+                                        class="fab fa-linkedin-in"></i></a></li>
+                        </ul>
+                        <div class="d-inline-block cirtificate-btn mt-4 w-100">
+                            <a href="" class="btn w-100 rounded-pill btn-outline-primary"
+                                style="color: #fff !important;border-color: #8F1AB9 !important;background-color: #8F1AB9 !important;">Verify
+                                Your Certificate</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6">
+                    <div class="widget">
+                        <div class="widget-title">Quick Links</div>
+                        <ul class="links">
+                            <li><a href="">Become an Instructor</a></li>
+                            <li><a href="">Corporate Training</a></li>
+                            <li><a href="">Our Partners</a></li>
+                            <li><a href="">Accrediting Bodies</a></li>
+                            <li><a href="">Live Online Classes</a></li>
+                            <li><a href="">Online Courses</a></li>
+                            <li><a href="">Classroom Courses</a></li>
+                            <li><a href="">ITIL® 4 Courses</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6">
+                    <div class="widget">
+                        <div class="widget-title">Resources</div>
+                        <ul class="links">
+                            <li><a href="">Free Courses</a></li>
+                            <li><a href="">Blogs</a></li>
+                            <li><a href="">Pay with Paypal</a></li>
+                            <li><a href="">Course Extension Fee</a></li>
+                            <li><a href="">Retake Exam Fee</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6">
+                    <div class="widget">
+                        <div class="widget-title">Support</div>
+                        <ul class="links">
+                            <li><a href="">FAQ</a></li>
+                            <li><a href="">Our Partners</a></li>
+                            <li><a href="">Terms and Conditions</a></li>
+                            <li><a href="">Privacy Policy</a></li>
+                            <li><a href="">Contact Us</a></li>
+
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12 col-sm-6 col-6">
+                    <div class="widget company-logos">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <img src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/footer-logo-1.png"
+                                class="img-fluid" alt="">
+                        </div>
+                        <div class="two-logos d-flex align-items-center justify-content-md-center ">
+                            <img src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/footer-logo-2.png"
+                                class="img-fluid me-2" alt="">
+                            <img src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/footer-logo-3.png"
+                                class="img-fluid" style="margin-left: 20px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-left: -3px; margin-bottom: 20px; margin-top: 20px; ">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <img src="https://www.globaledulink.co.uk/wp-content/uploads/2022/03/GEL.png" 
+                        alt="">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-7 col-md-6 col-12">
+                    <div class="copyRight d-flex align-items-center justify-content-md-start justify-content-center">
+                        Copyright © 2023 -GlobalEdulink - All Rights Reserved.
+                    </div>
+                </div>
+                <div class="sectery_icon col-lg-5 col-md-6 col-12 text-md-right">
+                    <div class="row" style="display: flex; flex-direction: row; justify-content: space-around;">
+                        <div class="col" >
+                            <div class="bg-white p-2 rounded-3"><img
+                                    src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/image-65.png"
+                                    class="img-fluid" alt="">
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="bg-white p-2 rounded-3"><img
+                                    src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/image-67.png"
+                                    class="img-fluid"
+                                    alt=""></div>
+                        </div>
+                        <div class="col">
+                            <div class="bg-white p-1 rounded-3"><img
+                                    src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/image-68.png"
+                                    class="img-fluid"
+                                    alt="">
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="bg-white p-1 rounded-3"><img
+                                    src="https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/image-69.png"
+                                    class="img-fluid"
+                                    alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </footer>
    </body>
 </html>
