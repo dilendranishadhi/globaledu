@@ -1,0 +1,10 @@
+/* Style for the h1 element */
+h1 {
+    font-size: 32px; /* Adjust the font size as needed */
+    color: #cb3434; /* Set the text color */
+    font-weight: bold; /* Set the font weight to bold or normal */
+    text-align: center; /* Set the text alignment (center, left, right, etc.) */
+    margin-bottom: 20px; /* Add spacing below the h1 element */
+    /* You can add more styles as needed, such as text shadow or background color */
+}
+
