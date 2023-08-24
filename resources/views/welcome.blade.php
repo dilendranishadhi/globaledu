@@ -87,7 +87,7 @@
          </div>
       </section>
       <section id="counter" class="sec-padding">
-         <div class="container">
+         {{-- <div class="container"> --}}
             <div class="row">
                <div class="col-md-3 px-0 ">
                   <div class="count">
@@ -98,7 +98,7 @@
                <div class="col-md-3 px-0 ">
                   <div class="count">
                      <p class="number">900+</p>
-                     <h4>ONLINE COURSES AVAILIBLE</h4>
+                     <h4>ONLINE COURSES </h4>
                   </div>
                </div>
                <div class="col-md-3 px-0 ">
@@ -115,8 +115,8 @@
                </div>
             </div>
          </div>
-      </section>
-      <h2>TOGETHER, SHAPING YOUR FUTURE</h2>
+      </section> <br>
+      <h2>TOGETHER, SHAPING YOUR FUTURE</h2><br>
       <section>
          <div class="tabcontainer">
             <div class="tab-group">
