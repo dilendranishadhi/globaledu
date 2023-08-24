@@ -74,10 +74,12 @@
          <img class="imageban" src="images/ppl.jpg" alt="Your Image">
          <div class="gradientban-overlay">
          <div class="overlay-text">
-            <p>ACCREDITED ONLINE <br> LEARNING FROM <br>ANYWHERE</p>
+            <p style="    color: white; 
+            font-size: 24px; 
+            font-weight:900;">ACCREDITED ONLINE <br> LEARNING FROM <br>ANYWHERE</p>
          </div>
          <div class="overlay-text2">
-            <p>Get accredited qualifications from anywhere <br> and access course content on any device.</p>
+            <p style="color: white">Get accredited qualifications from anywhere <br> and access course content on any device.</p>
          </div>
          <div class="search-container">
             <input type="text" class="search-input" placeholder="Search what you want" >
@@ -520,7 +522,7 @@
                <img src="images/UCIMG-1084.jpg" alt="Card Image 1">
                <h2>Card Title 1</h2>
                <div class="card5-content">
-                  <p style="font-size: 30px;"> <b>Amazing Free Courses.</b></p>
+                  <p style="font-size: 30px; font-color:white"> <b>Amazing Free Courses.</b></p>
                   <p style="font-size: 10px; text-align: justify">Our Free Course page is packed full of exciting courses you can access for free. Gain an accredited UK qualification and save a ton. Visit our Free Course page to find out more.</p>
                   <button>Start Now</button>
                </div>
@@ -629,23 +631,23 @@
             <div class="row">
                 <div class="col-lg-3 col-md-12 col-sm-12 col-12">
                     <div class="widget">
-                        <div class="widget-title">Contact Info</div>
+                        <div class="widget-title"> <p class="conp">Contact Info</p></div>
                         <div class="contact-details-container">
                             <div class="contact-item">
                                 <div class="icon-wrapper"><i class="fa fa-phone"></i></div>
-                                <p>Call Us +4420-8609-8200</p>
+                                <p class="conp">Call Us +4420-8609-8200</p>
                             </div>
                             <div class="contact-item">
                                 <div class="icon-wrapper"><i class="fab fa-whatsapp"></i></div>
-                                <p>Whatsapp Us +4475-8405-6454</p>
+                                <p class="conp">Whatsapp Us +4475-8405-6454</p>
                             </div>
                             <div class="contact-item">
                                 <div class="icon-wrapper"><i class="fa fa-envelope"></i></div>
-                                <p>Support@glledulink.co.uk</p>
+                                <p class="conp">Support@glledulink.co.uk</p>
                             </div>
                             <div class="contact-item">
                                 <div class="icon-wrapper"><i class="fa fa-map-marker"></i></div>
-                                <p>CityPoint, 1 Ropemaker Street, London, EC2Y 9HU</p>
+                                <p class="conp">CityPoint, 1 Ropemaker Street, London, EC2Y 9HU</p>
                             </div>
                         </div>
                         <ul class="social-links justify-content-lg-between justify-content-center" style="margin-bottom: 10px; margin-top: 10px;">
